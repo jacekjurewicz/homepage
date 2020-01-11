@@ -1,5 +1,16 @@
     .mainHeader {
-        color: yellow;
-        background: red;
+        color: #0B4F6C;
     }
+    .sectionHeader {
+        color: #01BAEF;
+    }
+    .link {
+        color: #20BF55;
+    }
+    .about {
+        width:100%;
+        max-width:700px;
+    }
+
+    
 
